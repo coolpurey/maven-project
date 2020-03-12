@@ -12,7 +12,7 @@
 
   <artifactId>server</artifactId>
   <packaging>jar</packaging>
-  <name>Server</name>
+  <name>my-maven-project</name>
   <description>Logic.</description>
 
   <build>
